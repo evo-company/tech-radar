@@ -1,0 +1,25 @@
+{
+  "name": "@evo/tech-radar",
+  "version": "1.0.0",
+  "description": "At [Zalando](http://zalando.de), we maintain a [public Tech Radar](http://zalando.github.io/tech-radar/) to help our engineering teams align on technology choices. Is is based on the [pioneering work by ThoughtWorks](https://www.thoughtworks.com/radar).",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zalando/tech-radar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zalando/tech-radar/issues"
+  },
+  "homepage": "https://github.com/zalando/tech-radar#readme",
+  "dependencies": {
+    "google-spreadsheet": "^2.0.4"
+  }
+}
